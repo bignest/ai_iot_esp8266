@@ -25,7 +25,7 @@
 #include <PubSubClient.h>
 #include <Wire.h>  // Only needed for Arduino 1.6.5 and earlier
 #include "SSD1306.h"
-// Update these with values suitable for your network.添加中文
+// U
 
 const char* ssid = "CSU-GeekSpace";
 const char* password = "147258369";
